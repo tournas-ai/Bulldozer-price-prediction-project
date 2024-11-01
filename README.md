@@ -27,5 +27,5 @@ Following the contest’s guidelines and tuning hyperparameters, the model achie
 ## Timeline & Competition Details
 The competition timeline included multiple phases from January 25 to April 17, 2013, allowing participants to train, validate, and test their models. The final leaderboard ranking is based on test set predictions submitted by the deadline.
 
- ## Citation
+## Citation
  Ben Hamner, Fast Iron 2, and FastIron. Blue Book for Bulldozers. Kaggle, 2013. [Competition Link](https://www.kaggle.com/competitions/bluebook-for-bulldozers)
