@@ -1,4 +1,4 @@
-# Bulldozer-price-prediction-project
+# Predicting Bulldozer Prices using Machine Learning
 
 ## Bulldozer Price Prediction Model
 This Bulldozer Price Prediction Model was created using Scikit-Learn to participate in the Blue Book for Bulldozers competition, organized by Fast Iron on Kaggle. The goal of this competition is to predict the auction sale price of a piece of heavy equipment, such as bulldozers and excavators, based on factors like equipment usage, type, and configuration.
